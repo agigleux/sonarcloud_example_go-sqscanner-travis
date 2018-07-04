@@ -20,7 +20,7 @@ script:
   # Execute tests
   - ls -lsa
   - pwd
-  - go test -json | sed 's|github.com/agigleux/sonarcloud_example_go-sqscanner-travis|samples|g' > report.json
+  - go test -json > report.json
   - cat report.json
   
   # And then execute SonarCloud analysis which will run its own code analysis, and also reuse the linters' results

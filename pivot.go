@@ -1,4 +1,4 @@
-package samples
+package sonarcloud_go_qscanner_travis
 
 import (
 	"io"

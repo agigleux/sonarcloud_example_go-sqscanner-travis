@@ -1,5 +1,5 @@
 // S1656
-package samples
+package sonarcloud_go_qscanner_travis
 
 type User struct { name string }
 
