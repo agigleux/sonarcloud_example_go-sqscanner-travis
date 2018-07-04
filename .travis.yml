@@ -7,7 +7,7 @@ addons:
   sonarcloud:
     organization: "agigleux-github"
     token:
-      secure: ""
+      secure: "EHU0l8LLGU98rPHryGSX4lxRbxnZwtKHzszxifP37iYgfHyjFu/kLnbLzit2V9KEyhaop6V8Ule7ddjt7tifNAvVfVwv5M3ZmT0s7cNLmn5PFA4RUR/qYdstoTxyxvDu2M4LYO58tc2mBJkF4GXBUWFTTVoPIdj5222rP/G8G5gDlr7QaP81lS3imVdDLjuGWQeVpgd/N1I+NIr+nm+eTsolqPDB8jJlKWVc12AQh1pje3hxuQ9JF7vaunPAkR7iz/d1D6yRP2fzqv7n/vGP1s/Lw4oiJYP/sC6k6OBNU+tXRZoYxUEl6I/A+H6+EsnVRSCxMCzoYlq2F2xFycrYYF2pij9759Zr1RM0zqVNEBcXYcdwLei6S5yx6iMvKdGhTfs0QeeLTMKZd5vbasntziAAj6u93aUzFKGzZGyR3T2uXGiTNON0wshCvC7x4ApCQRWDAYFKgIu3+1R2lRPH463EaCLt61554DKkDQ58AN8H+Pp/lCscFcFx8gexj4rm+JA6uvhN/i4BTqYKFG3YCnNoSkGk6YqUDeWfpu5Q2EdEkUdU73RSq6hpDruito7jRWBzZ1fuCqOAB8h8DFduXMMg8rFZuIeGpzeyCu7tkPohkYJHIQ0hi9AzjtqV3iLKm6gFZ9TaUfouNjMNMucUA8grWUqGfzeH9FApUO/RoAk="
       
 install:
   # Installs Go Meta Linter (Golint and Go vet are also supported independently)
