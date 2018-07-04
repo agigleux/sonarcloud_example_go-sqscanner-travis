@@ -22,6 +22,8 @@ script:
   - pwd
   - go test -json > report.json
   - cat report.json
+  - go test -coverprofile=coverage.out
+  - cat coverage.out
   
   # And then execute SonarCloud analysis which will run its own code analysis, and also reuse the linters' results
   - sonar-scanner
