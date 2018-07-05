@@ -1,0 +1,34 @@
+{"Time":"2018-07-04T22:48:05.203415679+02:00","Action":"run","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_rot13"}
+{"Time":"2018-07-04T22:48:05.204203379+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_rot13","Output":"=== RUN   Test_rot13\n"}
+{"Time":"2018-07-04T22:48:05.204242964+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_rot13","Output":"--- PASS: Test_rot13 (0.00s)\n"}
+{"Time":"2018-07-04T22:48:05.204257281+02:00","Action":"pass","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_rot13","Elapsed":0}
+{"Time":"2018-07-04T22:48:05.204278041+02:00","Action":"run","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_diabolic"}
+{"Time":"2018-07-04T22:48:05.204287911+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_diabolic","Output":"=== RUN   Test_I_m_diabolic\n"}
+{"Time":"2018-07-04T22:48:05.20430099+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_diabolic","Output":"--- FAIL: Test_I_m_diabolic (0.00s)\n"}
+{"Time":"2018-07-04T22:48:05.204311525+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_diabolic","Output":"\tpivot_test.go:23: I'm diabolic\n"}
+{"Time":"2018-07-04T22:48:05.204322006+02:00","Action":"fail","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_diabolic","Elapsed":0}
+{"Time":"2018-07-04T22:48:05.204331397+02:00","Action":"run","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_shy"}
+{"Time":"2018-07-04T22:48:05.204340389+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_shy","Output":"=== RUN   Test_I_m_shy\n"}
+{"Time":"2018-07-04T22:48:05.204350547+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_shy","Output":"--- SKIP: Test_I_m_shy (0.00s)\n"}
+{"Time":"2018-07-04T22:48:05.204360157+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_shy","Output":"\tpivot_test.go:27: I'm shy\n"}
+{"Time":"2018-07-04T22:48:05.204369718+02:00","Action":"skip","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_shy","Elapsed":0}
+{"Time":"2018-07-04T22:48:05.204378928+02:00","Action":"run","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared"}
+{"Time":"2018-07-04T22:48:05.204387886+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"=== RUN   Test_I_m_scared\n"}
+{"Time":"2018-07-04T22:48:05.204397751+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"--- FAIL: Test_I_m_scared (0.00s)\n"}
+{"Time":"2018-07-04T22:48:05.206352629+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"panic: I'am scared [recovered]\n"}
+{"Time":"2018-07-04T22:48:05.206417485+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\tpanic: I'am scared\n"}
+{"Time":"2018-07-04T22:48:05.206434593+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\n"}
+{"Time":"2018-07-04T22:48:05.20644681+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"goroutine 21 [running]:\n"}
+{"Time":"2018-07-04T22:48:05.206460065+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"testing.tRunner.func1(0xc4200c63c0)\n"}
+{"Time":"2018-07-04T22:48:05.206493739+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\t/usr/local/go/src/testing/testing.go:742 +0x29d\n"}
+{"Time":"2018-07-04T22:48:05.206535046+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"panic(0x1100260, 0x11479b0)\n"}
+{"Time":"2018-07-04T22:48:05.206548659+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\t/usr/local/go/src/runtime/panic.go:505 +0x229\n"}
+{"Time":"2018-07-04T22:48:05.20656067+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"github.com/agigleux/sonarcloud_go_qscanner_travis.Test_I_m_scared(0xc4200c63c0)\n"}
+{"Time":"2018-07-04T22:48:05.206577269+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\t/Users/alexandregigleux/go/src/github.com/agigleux/sonarcloud_go_qscanner_travis/pivot_test.go:31 +0x39\n"}
+{"Time":"2018-07-04T22:48:05.206594756+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"testing.tRunner(0xc4200c63c0, 0x1138640)\n"}
+{"Time":"2018-07-04T22:48:05.20660687+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\t/usr/local/go/src/testing/testing.go:777 +0xd0\n"}
+{"Time":"2018-07-04T22:48:05.206634908+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"created by testing.(*T).Run\n"}
+{"Time":"2018-07-04T22:48:05.206647105+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"\t/usr/local/go/src/testing/testing.go:824 +0x2e0\n"}
+{"Time":"2018-07-04T22:48:05.207875685+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"exit status 2\n"}
+{"Time":"2018-07-04T22:48:05.207929254+02:00","Action":"output","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Output":"FAIL\tgithub.com/agigleux/sonarcloud_go_qscanner_travis\t0.011s\n"}
+{"Time":"2018-07-04T22:48:05.207948687+02:00","Action":"fail","Package":"github.com/agigleux/sonarcloud_go_qscanner_travis","Test":"Test_I_m_scared","Elapsed":0.011}

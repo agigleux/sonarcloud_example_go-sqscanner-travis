@@ -1,0 +1,16 @@
+mode: set
+github.com/agigleux/sonarcloud_go_qscanner_travis/SelfAssignement.go:6.39,10.2 3 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/Sum.go:3.28,5.2 1 1
+github.com/agigleux/sonarcloud_go_qscanner_travis/Sum.go:7.13,9.2 1 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/TodoTagPresence.go:4.14,8.2 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/TooManyParameters.go:4.85,5.2 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/TooManyParameters.go:7.77,8.2 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/NoHardcodedCredentialsCheck.go:3.39,6.2 2 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/NoIdenticalConditions.go:3.40,4.10 1 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/NoIdenticalConditions.go:4.11,6.3 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/NoIdenticalConditions.go:6.8,6.17 1 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/NoIdenticalConditions.go:6.18,8.3 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/TooLongLine.go:4.21,8.2 2 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/RedundantBooleanLiteral.go:3.22,4.18 1 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/RedundantBooleanLiteral.go:4.19,6.3 0 0
+github.com/agigleux/sonarcloud_go_qscanner_travis/TabCharacter.go:4.18,7.2 2 0
